@@ -21,7 +21,7 @@ pip install tensorflow numpy scikit-learn
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wonders-of-the-world-classification.git
+   git clone https://github.com/ammaremad/wonders-of-the-world-classification.git
    cd wonders-of-the-world-classification
    ```
 
