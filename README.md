@@ -70,9 +70,3 @@ The results indicate that transfer learning can significantly enhance classifica
 ## Conclusion
 This project successfully demonstrates the effectiveness of using pre-trained models for image classification tasks. Future work may involve fine-tuning the models and experimenting with additional architectures to further improve performance.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify any sections to better fit your project specifics or personal preferences!
