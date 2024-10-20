@@ -50,7 +50,7 @@ The dataset consists of images of various wonders of the world, organized into s
 
 ## Model Training
 The project implements three models using transfer learning:
-- **VGG16**: Achieved a validation accuracy of 87.57% and a test accuracy of 93%.
+- **VGG16**: Achieved a validation accuracy of 89.14% and a test accuracy of 96%.
 - **ResNet50**: Underperformed with a validation accuracy of 12.30%.
 - **MobileNet**: Achieved a validation accuracy of 85.47%.
 
@@ -61,8 +61,8 @@ The project implements three models using transfer learning:
 
 ## Results
 The VGG16 model was identified as the best performer, achieving:
-- **Validation Accuracy**: 87.57%
-- **Test Accuracy**: 93%
+- **Validation Accuracy**: 89.14%
+- **Test Accuracy**: 96%
 
 The results indicate that transfer learning can significantly enhance classification accuracy, especially with limited training data.
 
