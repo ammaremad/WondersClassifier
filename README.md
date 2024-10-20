@@ -10,7 +10,6 @@ This project aims to classify images of the wonders of the world using deep lear
 - [Model Training](#model-training)
 - [Results](#results)
 - [Conclusion](#conclusion)
-- [License](#license)
 
 ## Installation
 To run this project, ensure you have the following libraries installed:
